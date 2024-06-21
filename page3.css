@@ -1,0 +1,172 @@
+*{    margin: 0px;
+    padding: 0px;
+}
+
+
+      /*.navbar{
+      width: 100%;
+      height: 50px;
+      background-color: rgba(202, 223, 241, 0.978);
+      color: hsl(240, 100%, 50%);
+      position: fixed;
+      top: 0%;
+      display: flex;
+      justify-content: center;
+      align-items: first center;
+     /* position: absolute;
+
+
+}*/
+ 
+#div1{
+    width: 100%;
+    height: 270px;
+   /* background-color: aqua;*/
+    display: flex;
+}
+
+
+.div1{
+    width: 100%;
+    height: 270px;
+   /* background-color: aqua;*/
+    display: flex;
+    margin-top: 10px;
+
+}
+
+
+
+.location{
+   width: 100%;
+   height: 200px;
+   background-color: #a4a79fef;
+   color: black;
+
+}
+.title{
+   width: 100%;
+   height: 70px;
+   color: blue;
+   background-color: rgb(227, 219, 219);
+   align-self: self-end;
+   position: absolute;
+   align-items: first baseline;
+}
+
+.photo-div1 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(166, 164, 168);
+    background-image: url(div21.jpg );
+    background-size:contain ;
+    background-repeat: no-repeat;
+}
+
+/* photo div2*/
+.photo-div2 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(166, 164, 168);
+    background-image: url(div22.jpg );
+    background-size:contain ;
+    background-repeat: no-repeat;
+}
+/*photo div3*/
+.photo-div3 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(166, 164, 168);
+    background-image: url(div23.jpg );
+    background-size:contain ;
+    background-repeat: no-repeat;
+}
+  /*photo div4*/
+
+  .photo-div4 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(166, 164, 168);
+    background-image: url(div24.jpeg );
+    background-size:contain ;
+    background-repeat: no-repeat;
+  }
+  /*photo div5*/
+   
+  .photo-div5 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(166, 164, 168);
+    background-image: url(div25.jpeg );
+    background-size:contain ;
+    background-repeat: no-repeat;
+  }
+
+    /*photo div6*/
+
+    .photo-div6{
+          width: 200px;
+          height: 200px;
+          background-color: rgb(166, 164, 168);
+          background-image: url(div26.jpeg );
+          background-size:contain ;
+          background-repeat: no-repeat;
+        }
+    
+
+    /*photo div7*/
+
+    .photo-div7{
+          width: 200px;
+          height: 200px;
+          background-color: rgb(166, 164, 168);
+          background-image: url(div27.jpeg );
+          background-size:contain ;
+          background-repeat: no-repeat;
+        }
+    
+
+    /*photo div8*/
+
+    .photo-div8{
+          width: 200px;
+          height: 200px;
+          background-color: rgb(166, 164, 168);
+          background-image: url(div28.jpeg );
+          background-size:contain ;
+          background-repeat: no-repeat;
+        }
+     /*photo div9*/
+
+        .photo-div9{
+          width: 200px;
+          height: 200px;
+          background-color: rgb(166, 164, 168);
+          background-image: url(div29.jpg );
+          background-size:contain ;
+          background-repeat: no-repeat;
+        }
+
+    /*photo div10*/
+
+    .photo-div10{
+          width: 200px;
+          height: 200px;
+          background-color: rgb(166, 164, 168);
+          background-image: url(div30.jpeg );
+          background-size:contain ;
+          background-repeat: no-repeat;
+        }
+
+        .button{
+          height: 40px;
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          align-content: center;
+          padding: 20px;
+          background-color: rgb(237, 231, 224);
+
+        }
+      
+  

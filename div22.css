@@ -1,0 +1,67 @@
+div15div12*{ 
+    margin: 0px;
+    padding: 0px;
+}
+
+.div1{  
+       width: 99%;
+       height: 480px;
+       background-image: url(div22.jpg);
+       background-size: cover;
+       background-repeat: no-repeat;
+       /*position: absolute;*/
+       margin: 5px;
+}
+
+.heder{
+        display: flex;
+        flex-direction: column ;
+      
+
+}
+ .title-div{
+         width: 99%;
+         height: 900px;
+       /*  background-color: aqua;*/
+         margin: 5px;
+
+         
+ }
+
+
+.footer{
+       width: 99%;
+       height: 60px;
+       background-color: rgb(204, 204, 186);
+       position: fixed;
+       bottom: 0px;
+       margin: 0px 5px;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       justify-content: space-evenly;
+
+}
+.whatsapp{
+       width: 120px;
+       height: 35px;
+      /* background-color: rgb(255, 255, 255); */
+       background-image: url(ww.png); 
+       background-size: contain;
+       background-repeat: no-repeat; 
+       border-radius: 10px;
+    
+}
+.contact{
+    width: 120px;
+    height: 35px;
+    color: rgb(9, 9, 9);
+    background-image: url(cc.jfif); 
+    background-size: contain;
+    background-repeat: no-repeat; 
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

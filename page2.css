@@ -42,7 +42,7 @@
    height: 200px;
    background-color: #a4a79fef;
    color: black;
-    padding:5px;
+    padding-left:5px;
 
 }
 .title{
@@ -167,6 +167,7 @@
           justify-content: center;
           align-content: center;
           padding: 20px;
+            margin-top:5px;
           background-color: rgb(237, 231, 224);
 
         }

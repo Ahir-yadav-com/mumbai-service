@@ -55,7 +55,7 @@
      background-color: rgb(227, 219, 219);
      align-self: self-end;
      position: absolute;
-     align-items: first baseline;
+     align-items: end baseline;
     padding:5px;
        display:flex;
  }

@@ -53,9 +53,9 @@
      height: 70px;
      color: blue;
      background-color: rgb(227, 219, 219);
-     align-self: self-end;
+     align-self: last baseline;
      position: absolute;
-     align-items: end baseline;
+     align-items: last baseline;
     padding:5px;
        display:flex;
  }

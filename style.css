@@ -25,6 +25,7 @@
      /* background-color: aqua;*/
       margin-top: 50px;
       display: flex;
+      flex-wrap:wrap;
       
 }
 
